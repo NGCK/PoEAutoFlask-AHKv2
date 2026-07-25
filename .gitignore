@@ -1,0 +1,19 @@
+# Written by the script at runtime, next to the .ahk — personal to each user.
+# The INI holds learned flask durations and the re-arm marker; the log holds
+# error traces and the full item text copied by Alt+D.
+PoEAutoFlask.ini
+PoEAutoFlask.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS (in case the repo is ever touched from one)
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
